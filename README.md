@@ -1,2 +1,0 @@
-# My-components
-CodeBerry task
